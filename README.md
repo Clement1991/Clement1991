@@ -1,4 +1,4 @@
-"I am a Software Engineer with over 2 years of experience, specialising in developing web applications using the Flask and Django frameworks. My expertise lies in creating efficient and scalable technological solutions, driven by a passion for innovation and problem-solving. 
+"I am a Software Engineer with over 3 years of experience, specialising in training generative AI models as well as developing web applications using the Flask framework. My expertise lies in creating efficient and scalable technological solutions, driven by a passion for innovation and problem-solving. 
 
 "I am deeply passionate about leveraging technology to address complex challenges and am committed to delivering high-quality solutions. I thrive in collaborative environments where I can apply my creativity, problem-solving skills, and determination to overcome obstacles and drive success."
 
